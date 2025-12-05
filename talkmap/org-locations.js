@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Building a Physics-Informed Neural Network for NPZ Modeling<br />CBIOMES Workshop on Photosynthesis and Primary Production; Virtual",
+    44.4939936,
+    11.3576917
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Discovering Governing Equations from Data using Sparse Regression<br />Joint Statistical Meetings (JSM) & Symposium on Data Science & Statistics (SDSS); Virtual",
+    44.4939936,
+    11.3576917
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Discovering Governing Equations from Data using Sparse Regression<br />SIAM Conference on Optimization (OP21) & Conference on Dynamical Systems (DS21); Virtual",
+    44.4939936,
+    11.3576917
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7932754,
-    -122.3963589
+    "Leveraging Physics-Informed Neural Networks for 4D-Variational Data Assimilation<br />CBIOMES Annual Meeting 2025; Virtual",
+    44.4939936,
+    11.3576917
   ]
 ];
