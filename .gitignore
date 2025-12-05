@@ -7,6 +7,7 @@ local/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
+*.Rhistory
 
 # Ignore files created by npm
 node_modules
