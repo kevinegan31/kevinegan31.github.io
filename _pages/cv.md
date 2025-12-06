@@ -20,7 +20,7 @@ Work experience
 ======
 * April 2024 - Present: Postdoctoral Research Scientist
   * University of Hawaiʻi at Mānoa, Honolulu, HI
-  * Developed Physics-Informed Neural Network framework for 4D-Variational Data Assimilation achieving 6.5-fold speedup over traditional numerical methods
+  * Developed Physics-Informed Neural Network framework for 4D-Variational Data Assimilation achieving 6.5-fold computational speedup over traditional numerical methods
   * Submitted manuscript to Journal of Advances in Modeling Earth Systems
   * Leading CBIOMES–funded workshop on machine learning methods for time-series data (2026)
   * Supervisor: Dr. Brian Powell
