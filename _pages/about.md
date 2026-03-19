@@ -7,24 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Research Scientist in the Department of Oceanography at the University of Hawaiʻi at Mānoa, where I work with Dr. Brian Powell developing scientific machine learning methods for complex dynamical systems in ocean modeling and data assimilation.
+I'm a Postdoctoral Research Scientist in the Department of Oceanography at the University of Hawaiʻi at Mānoa, where I work with Dr. Brian Powell.
+
+I build computer models that help us understand and predict how Earth systems change over time.
 
 ## Research Focus
 
-I develop scientific machine learning methods for understanding and forecasting complex ocean dynamical systems.
-My work combines data-driven models with mechanistic knowledge to create interpretable tools that respect physical laws while learning directly from observations.
+My work focuses on improving how we model and forecast the ocean.
 
-A core focus of my research is using machine learning to improve data assimilation.
-I'm developing physics-informed surrogate models and neural network-based tangent linear models that replace hand-crafted components, such as numerical tangent-linear and adjoint operators, with differentiable architectures generated automatically through modern automatic differentiation.
-These approaches accelerate Four-Dimensional Variational Data Assimilation (4D-Var) while preserving the physical structure and interpretability required for scientific applications.
+I use machine learning together with our understanding of ocean physics to build models that are both accurate and physically realistic.
+The goal is to create tools that can learn from data while still following the known rules that govern the ocean.
+
+I’m also interested in using data to uncover the underlying relationships that drive ocean systems.
+This includes developing methods that identify simple, interpretable equations directly from observations.
+
+A major part of my current research is improving how we combine models with real-world observations.
+I develop machine learning models that replace some of the more complex and time-consuming parts of traditional ocean modeling systems, making them faster and easier to use while still producing reliable results.
 
 This work is supported by the Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems (CBIOMES).
 
-
 ## Background
 
-I completed my PhD in Computational Engineering at Durham University in 2023, where I developed sparse regression methods for discovering governing equations from time-series data.
-My PhD research resulted in the [ARGOS R package](https://cran.r-project.org/web/packages/ARGOS/index.html) and a publication in Communications Physics.
+I completed my PhD in Computational Engineering at Durham University in 2023.
+During my PhD, I developed methods to automatically discover equations that describe how systems change over time using data.
+This work led to the [ARGOS R package](https://cran.r-project.org/web/packages/ARGOS/index.html) and a publication in *Communications Physics*.
+
 I also hold an M.S. in Data Science from Northwestern University and a B.A. in Statistics and Mathematics from Wittenberg University.
 
-I'm passionate about developing open-source tools that advance research across domains and addressing real-world challenges in climate and sustainability through methodological innovation.
+I enjoy building open-source tools and using data and modeling to better understand and address challenges related to climate and the environment.
