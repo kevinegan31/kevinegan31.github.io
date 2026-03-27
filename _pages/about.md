@@ -28,3 +28,7 @@ I completed my PhD in Computational Engineering at Durham University in 2023, wh
 This work produced the [ARGOS R package](https://cran.r-project.org/web/packages/ARGOS/index.html) and a publication in *Communications Physics*.
 
 I also hold an M.S. in Data Science from Northwestern University and a B.A. in Statistics and Mathematics from Wittenberg University.
+
+### Recent Recognition
+
+I received the **Most Impactful Research to the Pacific Islands Award** at the *Accelerating Research in the Age of AI: A Synergistic Workshop with Google* (Google–UH, March 2026) for work on physics-informed neural networks for ocean modeling and data assimilation.
