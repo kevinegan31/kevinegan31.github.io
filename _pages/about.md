@@ -31,4 +31,4 @@ I also hold an M.S. in Data Science from Northwestern University and a B.A. in S
 
 ### Recent Recognition
 
-I received the **Most Impactful Research to the Pacific Islands Award** at the *Accelerating Research in the Age of AI: A Synergistic Workshop with Google* (Google–UH, March 2026) for work on physics-informed neural networks for ocean modeling and data assimilation.
+I received the **Pacific Islands Impact Award** at the *Accelerating Research in the Age of AI: A Synergistic Workshop with Google* (Google–UH, March 2026) for work on physics-informed neural networks for ocean modeling and data assimilation.
