@@ -23,6 +23,7 @@ Work experience
   * Developed Physics-Informed Neural Network framework for 4D-Variational Data Assimilation achieving 6.5-fold computational speedup over traditional numerical methods
   * Submitted manuscript to Journal of Advances in Modeling Earth Systems
   * Leading CBIOMES–funded workshop on machine learning methods for time-series data (2026)
+  * Contributed to development of external research funding proposals focused on scientific modeling and data-driven methods
   * Supervisor: Dr. Brian Powell
 
 * September 2017 - September 2019: Associate Business Analyst
