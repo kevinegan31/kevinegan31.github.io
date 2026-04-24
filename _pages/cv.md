@@ -22,7 +22,7 @@ Work experience
   * University of Hawaiʻi at Mānoa, Honolulu, HI
   * Developed Physics-Informed Neural Network framework for 4D-Variational Data Assimilation achieving 6.5-fold computational speedup over traditional numerical methods
   * Submitted manuscript to Journal of Advances in Modeling Earth Systems
-  * Leading CBIOMES–funded workshop on machine learning methods for time-series data (2026)
+  * Leading a Simons Foundation Targeted Award–funded workshop on machine learning methods for time-series data (2026)
   * Contributed to development of external research funding proposals focused on scientific modeling and data-driven methods
   * Supervisor: Dr. Brian Powell
 
@@ -77,8 +77,9 @@ Software Contributions
 * **ARGOS** (Automatic Regression for Governing Equations): Creator and maintainer of CRAN-published R package for system identification from time-series data
 * **PI-NPZ**: Developer of PyTorch-based framework for 4D-Variational Data Assimilation using physics-informed neural networks
 
-Workshop & Leadership Experience
+Grants, Workshops & Leadership Experience
 ======
-* Lead Organizer & Presenter: CBIOMES Workshop on Machine Learning Methods for Time-Series Data (2026)
-* Committee Member: Durham University Postgraduate Research Conference (2022)
-* Chairman: Delta Tau Delta, Wittenberg University (2013-2016)
+* **Lead Organizer & Presenter**: CBIOMES Workshop on Machine Learning Methods for Time-Series Data (2026)  
+  *Funded by a Simons Foundation Targeted Award*
+* **Committee Member**: Durham University Postgraduate Research Conference (2022)
+* **Chairman**: Delta Tau Delta, Wittenberg University (2013–2016)
