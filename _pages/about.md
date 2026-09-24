@@ -14,13 +14,12 @@ I'm a Postdoctoral Research Scientist at the University of Hawaiʻi at Mānoa, w
 ## Research Focus
 
 My work sits at the intersection of machine learning and scientific modeling.
-
-The main question I ask is: how can machine learning help overcome limitations in scientific models while still making use of what we already know about how a system behaves?
+I study how machine learning can complement traditional scientific models.
 
 My current research focuses on using neural networks to make data assimilation more practical for complex numerical models.
-In particular, I develop neural network surrogates of ocean models that can be used within 4D-Variational Data Assimilation (4D-Var), a method for combining model predictions with observations to estimate the state of a system.
+In particular, I develop neural network surrogates that approximate the evolution of ocean models and can be used within 4D-Variational Data Assimilation (4D-Var), a method for combining model predictions with observations to estimate the state of a system.
 
-More broadly, I am interested in scientific machine learning for dynamical systems, including data assimilation, neural surrogates, uncertainty quantification, state and parameter estimation, and equation discovery.
+My broader research interests include scientific machine learning for dynamical systems, data assimilation, neural surrogates, uncertainty quantification, state and parameter estimation, and equation discovery.
 I am particularly interested in using learned models to better understand where numerical models succeed, where they fail, and how they might be improved.
 
 ## Background
