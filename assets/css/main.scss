@@ -45,3 +45,6 @@
   border-bottom: none;
   padding-bottom: 0;
 }
+.archive__item:hover .archive__item-title {
+  text-decoration: none;
+}
