@@ -7,6 +7,10 @@ excerpt: 'Developed ARGOS methodology combining denoising techniques, sparse reg
 date: 2024-01-20
 venue: 'Communications Physics'
 paperurl: 'https://doi.org/10.1038/s42005-023-01516-2'
+link: 'https://doi.org/10.1038/s42005-023-01516-2'
 citation: 'Egan, K., Li, W. & Carvalho, R. (2024). "Automatically discovering ordinary differential equations from data with sparse regression." <i>Communications Physics</i>. 7, 20.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper introduces ARGOS, a method for recovering the governing equations of a dynamical system from limited and noisy observations. ARGOS combines denoising, sparse regression, and bootstrap confidence intervals to identify which terms in a candidate equation are supported by the data. Across benchmark systems, it recovered the correct terms more consistently than the widely used SINDy framework and identified how much data, and how little noise, reliable recovery requires.
+
+ARGOS is available as an open-source [R package on CRAN](https://cran.r-project.org/web/packages/ARGOS/index.html).

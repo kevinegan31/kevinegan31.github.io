@@ -4,9 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-nn4dvar-preprint
 excerpt: 'Developed a differentiable physics-informed neural surrogate for 4D-Variational Data Assimilation, using automatic differentiation to replace separately developed tangent-linear and adjoint models while maintaining comparable state-estimation accuracy.'
-date: 2026-09-10
-venue: 'ESS Open Archive'
+date: 2026-09-27
+venue: 'ESS Open Archive (preprint; under review at JAMES)'
 paperurl: 'https://doi.org/10.22541/essoar.15008576/v1'
+link: 'https://doi.org/10.22541/essoar.15008576/v1'
 citation: 'Egan, K. & Powell, B. (2026). "Physics-Informed Neural Networks as Differentiable Surrogates for 4D-Variational Data Assimilation." <i>ESS Open Archive</i>. Preprint.'
 ---
 
