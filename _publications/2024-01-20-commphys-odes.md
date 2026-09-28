@@ -7,7 +7,7 @@ excerpt: 'Developed ARGOS methodology combining denoising techniques, sparse reg
 date: 2024-01-20
 venue: 'Communications Physics'
 paperurl: 'https://doi.org/10.1038/s42005-023-01516-2'
-link: 'https://doi.org/10.1038/s42005-023-01516-2'
+link: 'https://www.nature.com/articles/s42005-023-01516-2'
 citation: 'Egan, K., Li, W. & Carvalho, R. (2024). "Automatically discovering ordinary differential equations from data with sparse regression." <i>Communications Physics</i>. 7, 20.'
 ---
 
