@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-cbiomes-annual
 venue: "CBIOMES Annual Meeting 2025"
-date: 2025-01-01
+date: 2025-06-01
 location: "Simons Foundation, New York, NY"
 ---
 
