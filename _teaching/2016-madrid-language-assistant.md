@@ -8,4 +8,4 @@ date: 2016-09-01
 location: "Madrid, Spain"
 ---
 
-Assisted with English language instruction and cultural exchange programs.
+Led classroom lessons in engineering subjects and developed instructional materials to present technical concepts more clearly.
