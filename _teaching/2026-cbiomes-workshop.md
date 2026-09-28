@@ -7,4 +7,4 @@ venue: "CBIOMES Workshop on Machine Learning Methods for Time-Series Data"
 date: 2026-04-28
 location: "Simons Foundation, New York, NY"
 ---
-Organized a Simons Foundation-funded workshop and taught a full day on neural networks and physics-informed neural networks, pairing lectures with hands-on exercises for researchers from varied disciplinary backgrounds.
+Taught a full day on neural networks and physics-informed neural networks at a Simons Foundation-funded workshop, pairing lectures with hands-on exercises for researchers from varied disciplinary backgrounds.

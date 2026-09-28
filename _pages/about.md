@@ -21,9 +21,9 @@ In particular, I develop neural network surrogates that approximate the evolutio
 My broader research interests include scientific machine learning for dynamical systems, data assimilation, neural surrogates, uncertainty quantification, state and parameter estimation, and equation discovery.
 I am particularly interested in using learned models to better understand where numerical models succeed, where they fail, and how they might be improved.
 
-## Teaching and Mentoring
+## Teaching and Leadership
 
-I organized a Simons Foundation-funded workshop on machine learning for time-series data, where I taught a full day on neural networks and physics-informed neural networks.
+I co-authored the successful Simons Foundation proposal for, and led, the CBIOMES Workshop on Machine Learning Methods for Time-Series Data (April 2026), a 2.5-day workshop for researchers across disciplines, where I taught a full day on neural networks and physics-informed neural networks.
 I have also mentored undergraduate research in machine learning.
 
 ## Background
@@ -33,6 +33,6 @@ This work led to the [ARGOS R package](https://cran.r-project.org/web/packages/A
 
 I also hold an M.S. in Data Science from Northwestern University and a B.A. in Statistics and Mathematics from Wittenberg University.
 
-### Recent Recognition
+## Recent Recognition
 
 I received the **Pacific Islands Impact Award** at the *Accelerating Research in the Age of AI: A Synergistic Workshop with Google* (Google-UH, March 2026) for work on physics-informed neural networks for ocean modeling and data assimilation.
