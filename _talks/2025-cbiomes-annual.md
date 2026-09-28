@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2025-cbiomes-annual
 venue: "CBIOMES Annual Meeting 2025"
 date: 2025-01-01
-location: "Virtual"
+location: "Simons Foundation, New York, NY"
 ---
 
 Presented research on physics-informed neural networks for 4D-Var data assimilation in marine ecosystem modeling.
