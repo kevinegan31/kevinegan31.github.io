@@ -7,32 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-I develop machine learning methods for understanding, predicting, and inferring the behavior of complex dynamical systems.
+I use data and machine learning to understand and predict real-world systems throughout science and engineering.
 
 I'm a Postdoctoral Research Scientist at the University of Hawaiʻi at Mānoa, working with Dr. Brian Powell.
 
-## Research Focus
+## Research
 
-My work asks when machine learning models learn the relationships that govern a system, not just how to make accurate predictions, and what they need to represent accurately to support scientific tasks such as forecasting and state estimation.
+I'm particularly interested in when machine learning is useful for a scientific problem, what part of the problem it can help solve, and how we can tell whether a model has learned the relationships that drive a system rather than simply producing accurate predictions.
 
-My current research focuses on using neural networks to make data assimilation more practical for complex numerical models.
-In particular, I develop neural network surrogates that approximate the evolution of ocean models and can be used within 4D-Variational Data Assimilation (4D-Var), a method for combining model predictions with observations to estimate the state of a system ([preprint](https://doi.org/10.22541/essoar.15008576/v1)).
+In my current work, I train neural networks to reproduce the behavior of ocean ecosystem models, then use them to combine model predictions with observations more efficiently.
+These networks can also be analyzed to understand how well they represent the scientific model and what they reveal about the relationships between variables in the modeled system ([preprint](https://doi.org/10.22541/essoar.15008576/v1)).
 
-My broader research interests include scientific machine learning for dynamical systems, data assimilation, neural surrogates, uncertainty quantification, state and parameter estimation, and equation discovery.
-I am particularly interested in using learned models to better understand where numerical models succeed, where they fail, and how they might be improved.
+My PhD research approached a related problem from the other direction: when the governing equations are unknown, can we recover them directly from observations?
+I developed statistical and machine-learning methods for discovering interpretable differential equations from noisy time-series data, resulting in the [ARGOS R package](https://cran.r-project.org/web/packages/ARGOS/index.html) and a publication in [*Communications Physics*](https://www.nature.com/articles/s42005-023-01516-2).
+
+**Research areas:** scientific machine learning, data assimilation, dynamical systems, uncertainty quantification, and equation discovery.
 
 ## Teaching and Leadership
 
-I co-authored the successful Simons Foundation proposal for, and led, the CBIOMES Workshop on Machine Learning Methods for Time-Series Data (April 2026), a 2.5-day workshop for researchers across disciplines, where I taught a full day on neural networks and physics-informed neural networks.
-I have also mentored undergraduate research in machine learning.
+In April 2026, I organized the CBIOMES Workshop on Machine Learning Methods for Time-Series Data, a 2.5-day workshop funded through a Simons Foundation proposal I wrote.
+I taught the second day, covering neural networks and physics-informed neural networks for oceanographic applications and developing hands-on tutorials and example notebooks.
+
+I have also mentored undergraduate research in machine learning, including a project on particle tracking with CERN data.
 
 ## Background
 
-I completed my PhD in Computational Engineering at Durham University in 2023. My PhD research focused on discovering the equations that govern a system directly from data when those equations are not known.
-This work led to the [ARGOS R package](https://cran.r-project.org/web/packages/ARGOS/index.html) and a publication in *Communications Physics*.
-
+I completed my PhD in Computational Engineering at Durham University in 2023.
 I also hold an M.S. in Data Science from Northwestern University and a B.A. in Statistics and Mathematics from Wittenberg University.
 
 ## Recent Recognition
 
-I received the **Pacific Islands Impact Award** at the *Accelerating Research in the Age of AI: A Synergistic Workshop with Google* (Google-UH, March 2026) for work on physics-informed neural networks for ocean modeling and data assimilation.
+I received the **Pacific Islands Impact Award** at *Accelerating Research in the Age of AI: A Synergistic Workshop with Google* (Google-UH, March 2026) for work on physics-informed neural networks for ocean modeling and data assimilation.
