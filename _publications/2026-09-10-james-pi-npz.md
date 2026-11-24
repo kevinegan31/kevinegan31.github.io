@@ -2,16 +2,19 @@
 title: "Physics-Informed Neural Networks as Differentiable Surrogates for 4D-Variational Data Assimilation"
 collection: publications
 category: manuscripts
-status: accepted
+status: published
 permalink: /publications/2026-09-10-james-pi-npz
-excerpt: 'Developed a differentiable physics-informed neural surrogate for 4D-Variational Data Assimilation, using automatic differentiation to replace separately developed tangent-linear and adjoint models while maintaining comparable state-estimation accuracy.'
-date: 2026-10-13
+excerpt: 'Developed a differentiable physics-informed neural surrogate for 4D-Variational Data Assimilation, achieving an approximately six-fold computational speedup while maintaining comparable state-estimation accuracy.'
+date: 2026-11-06
 venue: 'Journal of Advances in Modeling Earth Systems (JAMES)'
-paperurl: 'https://doi.org/10.22541/essoar.15008576/v1'
-citation: 'Egan, K. & Powell, B. (2026). "Physics-Informed Neural Networks as Differentiable Surrogates for 4D-Variational Data Assimilation." <i>Journal of Advances in Modeling Earth Systems</i>. Accepted for publication.'
+paperurl: 'https://doi.org/10.1029/2025MS005619'
+citation: 'Egan, K. & Powell, B. (2026). "Physics-Informed Neural Networks as Differentiable Surrogates for 4D-Variational Data Assimilation." <i>Journal of Advances in Modeling Earth Systems</i>. https://doi.org/10.1029/2025MS005619'
 ---
 
-This work presents a machine-learning approach to 4D-Variational Data Assimilation in which a differentiable neural surrogate provides model sensitivities through automatic differentiation, eliminating the need for separately developed tangent-linear and adjoint models.
+This work presents a physics-informed machine learning framework for 4D-Variational Data Assimilation (4D-Var), unifying the forward, tangent-linear, and adjoint models within a single computational framework through automatic differentiation.
 
-The manuscript has been accepted for publication in the *Journal of Advances in Modeling Earth Systems* (*JAMES*).
-A [preprint is available on ESS Open Archive](https://doi.org/10.22541/essoar.15008576/v1).
+Applied to a nitrate–phytoplankton–zooplankton ecosystem model, our approach achieves an approximately six-fold speedup over traditional numerical models in twin experiments while maintaining comparable state-estimation accuracy across a range of observation sampling scenarios. Analysis of the network's learned sensitivities also provides insight into the limitations of simplified governing equations.
+
+This work has been published in the **Journal of Advances in Modeling Earth Systems (JAMES)**.
+
+[Read the published article](https://doi.org/10.1029/2025MS005619).
